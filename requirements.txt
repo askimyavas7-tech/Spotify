@@ -10,7 +10,6 @@ deepai
 python-whois
 dnspython
 ffmpeg-python
-gitpython
 hachoir
 Faker
 pydub
